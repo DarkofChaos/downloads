@@ -1,17 +1,9 @@
 {
     "Users": [
         {
-            "NAME": "ZGFya29mY2hhb3M=",
-            "PASSWORD": "ZGFyazU3MzE=",
-            "ID": "NTM2Njg2MTEwODE0ODk2MTQ4",
-            "LICENSES": [
-                "Nitro-Gen"
-            ]
-        },
-        {
             "NAME": "MTIz",
             "PASSWORD": "MTIz",
-            "ID": "MTIxMzYzNjk4NTI1NjY3MzI5MQ==",
+            "ID": "NTM2Njg2MTEwODE0ODk2MTQ4",
             "LICENSES": []
         }
     ]
