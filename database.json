@@ -1,5 +1,10 @@
 {
     "Users": [
-
+        {
+            "NAME": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+            "PASSWORD": "d693fe29b951968d1954522127339724d892febdaaa37639748ddcf77ed03a5e",
+            "ID": "e2048862251fa26400c61bd4e8135d307fdd75a6f05722f843fa88d666cc5eff",
+            "LICENSES": []
+        }
     ]
 }
