@@ -4,13 +4,9 @@
             "NAME": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
             "PASSWORD": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
             "ID": "eb5ff18e26d09cd7654802a599dee76c514767e11f2c4da627b1aa1938f39999",
-            "LICENSES": []
-        },
-        {
-            "NAME": "7fa8a6e9fde2f4e1dfe6fb029af47c9633d4b7a616a42c3b2889c5226a20238d",
-            "PASSWORD": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
-            "ID": "e2048862251fa26400c61bd4e8135d307fdd75a6f05722f843fa88d666cc5eff",
-            "LICENSES": []
+            "LICENSES": [
+                "Nitro-Gen"
+            ]
         }
     ]
 }
