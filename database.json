@@ -4,7 +4,9 @@
             "NAME": "95fe8b7760b793a0493b5de072f141b3a5c6c1282040a7dae3d3761493be7a97",
             "PASSWORD": "6daf7c54a339989e18d98d30b2cf9be42a240523e28f8f312c58b6012feb3414",
             "ID": "eb5ff18e26d09cd7654802a599dee76c514767e11f2c4da627b1aa1938f39999",
-            "LICENSES": []
+            "LICENSES": [
+                "Nitro-Gen"
+            ]
         }
     ]
 }
